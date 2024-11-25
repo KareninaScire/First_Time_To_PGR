@@ -1,0 +1,830 @@
+[
+  {
+    "loadType": 1,
+    "spriteName": "灰鸦整备室",
+    "soundType": 3,
+    "soundPath": "Daily"
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "dialogueContent": "指挥官，你醒了？",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "0"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -1,
+    "dialogueContent": "啊...是小露啊...现在几点了，我有点断片..."
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "dialogueContent": "现在倒没到中午。嗯...看来是昨晚灰鸦夜话时，指挥官饮酒有些过量，我该和丽芙一起劝着你的",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "1",
+    "scriptID": -1
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "dialogueContent": "不过灰鸦难得坐在一起放下所有担子无所顾忌地聊聊天休息一下，所以上午一直没叫醒你",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "2"
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "dialogueContent": "丽芙去生命之星帮忙了，里也去调试他的新机体了。所以...这里暂时只有我们两个",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "3"
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "dialogueContent": "嗯...指挥官，我们来做些只有你和我才能做的事吧？",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "4"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -2,
+    "dialogueContent": "！！！？？"
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "dialogueContent": "指挥官，我知道你现在可能很累，但是每天的体能训练最好不要落下！我来继续和你训练吧",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "5",
+    "scriptID": -2
+  },
+  {
+    "soundType": 3,
+    "soundPath": "Normal"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 1,
+    "ifRotate": true,
+    "soundType": 1,
+    "soundPath": "0",
+    "dialogueContent": "喂！你怎么还在这傻坐着？不是说好了..."
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 1,
+    "ifRotate": true,
+    "soundType": 1,
+    "soundPath": "1",
+    "dialogueContent": "露西亚...也在...?"
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "6",
+    "dialogueContent": "呀，是卡列尼娜啊。指挥官昨晚熬的时间有点长，刚醒不久，有什么事吗？"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 1,
+    "ifRotate": true,
+    "soundType": 1,
+    "soundPath": "2",
+    "dialogueContent": "哈...?"
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "characterPos": 2,
+    "characterID": 1,
+    "soundType": 1,
+    "soundPath": "7",
+    "dialogueContent": "指挥官，还要继续训练吗？"
+  },{
+  "loadType": 3,
+  "eventID": 1,
+  "eventData": 3,
+  "scriptID": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 2,
+    "dialogueContent": "卡列也在这，不太方便吧...？"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 3,
+    "dialogueContent": "要不然算了吧，今天先休息"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 4,
+    "dialogueContent": "我要向小露拔刀了口牙"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 1,
+    "ifRotate": true,
+    "soundType": 1,
+    "soundPath": "3",
+    "scriptID": 2,
+    "dialogueContent": "哈，怎么不方便，方便的，我倒要看看昨晚熬了一夜的大忙人现在精力如何"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 1
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "8",
+    "characterID": 1,
+    "scriptID": 3,
+    "dialogueContent": "好，昨天一晚上指挥官也累了，那今天指挥官先好好休息一下吧"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 7
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "9",
+    "energyValue": -20,
+    "characterID": 1,
+    "scriptID": 4,
+    "dialogueContent": "和往常一样，指挥官攻击我身上出现的破绽就好。当然，也请一如既往地相信我的能力，不用担心伤到我"
+  },
+  {
+    "loadType": 3,
+    "eventID": 3,
+    "eventData": 1
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "10",
+    "characterID": 1,
+    "scriptID": 5,
+    "dialogueContent": "状态比平常差些...是昨晚熬太长时间了吗？指挥官回来要注意休息一下"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 7
+  },
+  {
+    "loadType": 2,
+    "name": "露西亚",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "11",
+    "characterID": 1,
+    "scriptID": 6,
+    "dialogueContent": "指挥官今天的状态也很好呢！该说...不愧是首席吗？"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 7
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 1,
+    "soundType": 1,
+    "soundPath": "4",
+    "scriptID": 7,
+    "dialogueContent": "喂！走啦！说好了今天陪我的！"
+  },
+  {
+    "loadType": 1,
+    "spriteName": "楼道"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "5",
+    "scriptID": 114514,
+    "dialogueContent": "这位指挥官先生，你要不要解释一下“昨天晚上熬到很晚”是什么意思？还有，露西亚怎么知道的！"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 2
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 8,
+    "dialogueContent": "就是昨天晚上灰鸦聊了半夜的家长里短啦"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 9,
+    "dialogueContent": "灰鸦彻夜讨论了一下如何贯彻落实今天卡列尼娜小姐和我的见面"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "6",
+    "scriptID": 8,
+    "dialogueContent": "首席真是精力充沛呢，今天说好了要陪我昨晚还不好好休息一下"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 10
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "7",
+    "scriptID": 9,
+    "favorability": 5,
+    "dialogueContent": "哼...油嘴滑舌！"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "8",
+    "scriptID": 10,
+    "dialogueContent": "算了，接下来我们去哪？"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 2
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 11,
+    "dialogueContent": "去映画晨星玩吧"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 100,
+    "dialogueContent": "去康斯塔雷耶逛街吧"
+  },
+  {
+    "loadType": 1,
+    "spriteName": "公园",
+    "scriptID": 11
+  },
+  {
+    "soundType": 3,
+    "soundPath": "DreamWithYou"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "9",
+    "dialogueContent": "哼，这地方看起来还不错嘛，像之前一样"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -3,
+    "dialogueContent": "我就知道你会喜欢。来吧，这次一起放松一下吧"
+  },  
+  {
+  "loadType": 2,
+  "name": "卡列尼娜",
+  "characterPos": 2,
+  "soundType": 1,
+  "soundPath": "10", 
+    "scriptID": -3,
+  "dialogueContent": "等等！说我要和你一起玩了？我...我只是觉得这里的建筑结构挺有意思！"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "11",
+    "dialogueContent": "不愧是黄金时代最负盛名的水上乐园，你看这构造..."
+  },
+  {
+  "loadType": 3,
+  "eventID": 1,
+  "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -4,
+    "dialogueContent": "（不愧是土木大姐头...）"
+  },
+  {
+  "loadType": 2,
+  "name": "卡列尼娜",
+  "characterPos": 2,
+  "soundType": 1,
+  "soundPath": "12",
+  "scriptID": -4,
+  "dialogueContent": "..."
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -5,
+    "dialogueContent": "？卡列怎么不说话了？"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "13",
+    "scriptID": -5,
+    "dialogueContent": "指挥官，你看那边，孩子们在排队滑滑梯..."
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "14",
+    "dialogueContent": "真好，看到他们，我所做的一切...价值就具象化了出来"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -6,
+    "dialogueContent": "？你今天怎么跟个娘们似的？"
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "15",
+    "scriptID": -6,
+    "dialogueContent": "你...！！！"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "16",
+    "dialogueContent": "哈，算了，今天心情好，不跟你计较了"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "17",
+    "dialogueContent": "喂...那个，你为什么...突然想来这里？"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 2
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -7,
+    "dialogueContent": "我觉得这里很适合咱俩约会"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -8,
+    "dialogueContent": "为了完成之前做出的约定"
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "18",
+    "scriptID": -7,
+    "favorability": 5,
+    "dialogueContent": "谁说今天是约会了..."
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 931206
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "19",
+    "scriptID": -8,
+    "favorability": 10,
+    "dialogueContent": "哈？你居然还记得啊..."
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "20",
+    "dialogueContent": "但是...我当时是不是说...“和大家一起”..."
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 2
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -9,
+    "dialogueContent": "不用和大家，和你就足够了"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -10,
+    "dialogueContent": "现在映画晨星人也不少，也算是和大家啦"
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "21",
+    "scriptID": -9,
+    "favorability": 20,
+    "dialogueContent": "说什么呢..."
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 931206
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "22",
+    "scriptID": -10,
+    "favorability": 5,
+    "dialogueContent": "嗯，也是呢"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 931206
+  },
+  {
+    "loadType": 1,
+    "spriteName": "康斯塔雷耶",
+    "scriptID": 100
+  },
+  {
+    "soundType": 3,
+    "soundPath": "风的视线"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "23",
+    "dialogueContent": "康斯塔雷耶...群聚的星宿"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "24",
+    "dialogueContent": "黄金时代的遗珠，名不虚传"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 17,
+    "dialogueContent": "机械教会重建的也不错，街边各式的摊位不少呢"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1,
+    "scriptID": 17
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 12,
+    "dialogueContent": "咦，这都有冰激凌卖的哦？嚯嚯，还有螺母味的，卡列要不要尝一个？"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "25",
+    "scriptID": 12,
+    "dialogueContent": "好，可以尝试一下"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 18,
+    "dialogueContent": "（把冰激凌递给卡列）"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1,
+    "scriptID": 18
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 13,
+    "dialogueContent": "螺母味尝起来怎么样？"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "26",
+    "scriptID": 13,
+    "favorability": 5,
+    "dialogueContent": "吃起来挺不错的，闻起来像刚冷却的航天用钛合金...又好像加了点钛钢？"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 14,
+    "dialogueContent": "不好评价怎么叫吃起来不错..."
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "27",
+    "scriptID": 14,
+    "dialogueContent": "指挥官！看！全是黄金时代的唱片！"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "28",
+    "dialogueContent": "艺术协会接手之后这玩意可不好找..."
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 15,
+    "dialogueContent": "怎么感觉你把艺术协会接管说成了劫掠..."
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "29",
+    "scriptID": 15,
+    "dialogueContent": "嗯...这个不错..."
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "30",
+    "dialogueContent": "作为请我吃冰激凌的回礼，这个唱片送你了！王后乐队！爷爷最喜欢听他们的歌"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 19,
+    "dialogueContent": "（端详封面）"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1,
+    "scriptID": 19
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 16,
+    "dialogueContent": "...y Life?"
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "31",
+    "scriptID": 16,
+    "dialogueContent": "年代久远封面脱落很正常啦，你别多想！就是刚好拿到了这张唱片而已！"
+  },
+  {
+    "loadType": 3,
+    "eventID": 1,
+    "eventData": 1
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 931206,
+    "dialogueContent": "谢谢，卡列尼娜"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "32",
+    "scriptID": 931206,
+    "dialogueContent": "咳，好了也不早了，听说北边有个烟火晚会，去看烟花吧，你和我"
+  },
+  {
+    "loadType": 1,
+    "spriteName": "极地"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "33",
+    "dialogueContent": "大晚上的...有点冷呢"
+  },
+  {
+  "loadType": 3,
+  "eventID": 1,
+  "eventData": 2
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -11,
+    "dialogueContent": "（握住她的手）"
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": -12,
+    "dialogueContent": "嗯，是有点冷"
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "34",
+    "scriptID": -11,
+    "favorability": 25,
+    "dialogueContent": "...喂..."
+  },
+  {
+    "loadType": 3,
+    "eventID": 2,
+    "eventData": 1919810
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "35",
+    "scriptID": -12,
+    "dialogueContent": "...笨蛋"
+  },
+  {
+    "loadType": 1,
+    "spriteName": "烟花",
+    "scriptID": 1919810
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "36",
+    "dialogueContent": "我...喜欢的"
+  },
+  {
+    "loadType": 2,
+    "name": "卡列尼娜",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "37",
+    "dialogueContent": "看腻了工程部队爆破的大场面，看点小烟花也不错"
+  },
+  {
+    "loadType": 2,
+    "name": "害羞",
+    "characterPos": 2,
+    "soundType": 1,
+    "soundPath": "38",
+    "dialogueContent": "我说，有机会的话，再来吧，还是...你和我"
+  }
+  
+]
